@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICSK_GESTPRO_SERVICE_TEMPLATE_V2X", "ICSK_GESTPRO_SERVICE_TEMPLATE_V2X.csproj", "{DD49EC6B-0093-4A91-87BC-E334A9AF9634}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ICSK_GESTPRO_TEMPLATE_V2_TESTS", "..\ICSK_GESTPRO_TEMPLATE_V2_TESTS\ICSK_GESTPRO_TEMPLATE_V2_TESTS.csproj", "{8FC60302-A512-4D2C-BF6C-2DBBAB60CA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD49EC6B-0093-4A91-87BC-E334A9AF9634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD49EC6B-0093-4A91-87BC-E334A9AF9634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD49EC6B-0093-4A91-87BC-E334A9AF9634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD49EC6B-0093-4A91-87BC-E334A9AF9634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC60302-A512-4D2C-BF6C-2DBBAB60CA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC60302-A512-4D2C-BF6C-2DBBAB60CA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC60302-A512-4D2C-BF6C-2DBBAB60CA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC60302-A512-4D2C-BF6C-2DBBAB60CA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA6C541-C141-428D-A533-19093070175D}
+	EndGlobalSection
+EndGlobal
